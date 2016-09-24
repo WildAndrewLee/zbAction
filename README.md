@@ -1,4 +1,4 @@
-**THIS PROJECT HAS MOVED! SES https://github.com/zbAction/zbAction**
+**THIS PROJECT HAS MOVED! SEE https://github.com/zbAction/zbAction**
 
 ## zbAction
 zbAction is a WebSocket based communication API that allows users to engage in real-time activities through notification-driven events.
